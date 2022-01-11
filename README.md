@@ -3,7 +3,7 @@ I'm from Switzerland, living in Geneva and currently working as IT consultant in
 
 - 🌱 Continually learning ...
 - 🔭 I'm currently working on something cool
-- 📫 How to reach me: Twitter, LinkedIn, Instagram, Mail
+- 📫 How to reach me: Twitter, LinkedIn, Instagram and Mail
 
 <div style="display: inline_block" align="center"><br>
 <a href="https://github.com/MichaelGomes98/github-readme-stats">

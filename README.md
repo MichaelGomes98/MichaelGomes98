@@ -1,8 +1,14 @@
 ### Hi there, I'm Michael Gomes 👋
 
-I'm an Identity and Access Management Administrator (IAM) based in Geneva, Switzerland, currently working in the banking sector.
+I'm an Identity and Access Management (IAM) Administrator based in Geneva, Switzerland, currently working in the banking sector.
 Passionate about IT, cybersecurity and new technologies, I enjoy building projects, learning new skills and exploring innovative solutions.
 Here you can find some of my personal and academic projects.
+
+🌱 Continuously learning and improving my skills
+
+🔭 Currently working on new projects
+
+📫 How to reach me: LinkedIn, GitHub and email
 
 <div style="display: inline_block" align="center"><br>
 <a href="https://github.com/MichaelGomes98/github-readme-stats">

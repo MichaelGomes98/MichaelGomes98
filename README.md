@@ -1,5 +1,5 @@
 ### Hi there, I'm Michael Gomes 👋
-I'm from Switzerland, living in Geneva and currently working as an Access Support Specialist (IAM) in a bank. I am passionate about IT and new technologies. Here you can find some of my projects. 
+I'm from Switzerland, living in Geneva and currently working as an Identity and Access Management Administrator (IAM) in a bank. I am passionate about IT and new technologies. Here you can find some of my projects. 
 
 - 🌱 Continually learning ...
 - 🔭 I'm currently working on something cool

@@ -10,7 +10,14 @@ Here you can find some of my personal and academic projects.
 
 📫 How to reach me: LinkedIn, GitHub and email
 
-
+<div style="display: inline_block" align="center"><br>
+<a href="https://github.com/MichaelGomes98/github-readme-stats">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MichaelGomes98&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/MichaelGomes98/convoychat">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark"/>
+</a>
+ </div>
  
  ##
  
